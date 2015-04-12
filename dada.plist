@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://git.oschina.net/nuctony/dadaapp/raw/master/dadaapp.ipa</string>
+					<string>http://172.16.2.123:8080/dadaapp/bigapp/app/appversion/version/DaDaIos?attachId=10754</string>
 				</dict>
 			</array>
 			<key>metadata</key>
