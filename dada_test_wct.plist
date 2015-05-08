@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://172.16.20.216:8002/bigapp/bigapp/app/appversion/downIOSNew</string>
+                        <string>http://172.16.106.248:8080/bigapp/bigapp/app/appversion/downIOSNew</string>
                     </dict>
                     <dict>
                         <key>kind</key>
